@@ -1,0 +1,4 @@
+"/Users/ulizama/Documents/Apps/TiModules/Acktie-Mobile-Android-Barcode/src/com/acktie/mobile/android/barcode/AcktiemobileandroidbarcodeModule.java"
+"/Users/ulizama/Documents/Apps/TiModules/Acktie-Mobile-Android-Barcode/src/com/acktie/mobile/android/barcode/BarcodeInputArgs.java"
+"/Users/ulizama/Documents/Apps/TiModules/Acktie-Mobile-Android-Barcode/src/com/acktie/mobile/android/barcode/BarcodeView.java"
+"/Users/ulizama/Documents/Apps/TiModules/Acktie-Mobile-Android-Barcode/src/com/acktie/mobile/android/barcode/BarcodeViewProxy.java"
